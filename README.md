@@ -5,7 +5,10 @@ Hi,
 
 This GIT repo contains the jupyter source code (via Kaggle) and a pdf download as part of the deliverables for the DTSA 5509 paper.
 
-Here is a link to the KAggle jupyter notebook:
+Here is a link to the Kaggle dataset "Student Performance Analytics"
+https://www.kaggle.com/code/devansodariya/student-performance-analytics/data
+
+Here is a link to the Kaggle jupyter notebook:
 https://www.kaggle.com/code/jonfeatherstonenz/dtsa-5509-final-project
 
 Here is the link to the video presentation of this project:
